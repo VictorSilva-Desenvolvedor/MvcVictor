@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MvcVictor&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MvcVictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -54,6 +54,6 @@
 
 ###
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/MvcVictor/MvcVictor/output/snake.svg" alt="Snake animation" />
 
 ###
