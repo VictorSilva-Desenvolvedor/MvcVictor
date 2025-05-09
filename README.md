@@ -59,6 +59,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MvcVictor/MvcVictor/output/snake.svg" alt="Snake animation" />
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 
 ###
