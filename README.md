@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MvcVictor/MvcVictor/output/snake.svg" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 ###
