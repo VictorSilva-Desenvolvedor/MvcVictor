@@ -47,12 +47,12 @@
 ###
 
 <div align="left">
-  <a href="mailto:Mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+<a href="mailto:Mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
   <a href="https://www.linkedin.com/in/victor-paulo-da-silva-473136344" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 </div>
 
 ###
