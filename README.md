@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="300" alt="languages graph"  />
 </div>
 
 ###
