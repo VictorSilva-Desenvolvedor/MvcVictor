@@ -1,12 +1,8 @@
-<h2 align="left">Ola 👋! Meu nome e Victor Paulo</h2>
+<h2 align="left">Olá 👋! Meu nome é Victor Paulo</h2>
 
 ###
 
-<p align="center">Estudando sempre para ser um programador que eu possa me orgulhar🤖🧑🏽‍💻</p>
-
-###
-
-
+<p align="center">Estudando sempre para ser um programador que eu possa me orgulhar 🤖🧑🏽‍💻</p>
 
 ###
 
@@ -15,6 +11,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vue-dark&hide_border=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -47,16 +47,14 @@
 ###
 
 <div align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
   <a href="https://www.linkedin.com/in/victor-paulo-da-silva-473136344" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
-###
