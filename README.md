@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvcVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-Desenvolvedor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="300" alt="languages graph"  />
 </div>
 
 ###
@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=VictorSilva-Desenvolvedorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/victor-paulo-da-silva-473136344" target="_blank" rel="noopener noreferrer">
